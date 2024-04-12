@@ -1,0 +1,14 @@
+### CREAR UN NUEVO PROYECTO FLUTTER
+cmd + shif + p 
+Flutter new proyect
+
+###  COMANDOS FLUTTER DESDE TERMINAL
+flutter --version
+flutter doctor 
+
+### SNIPET PARA CREAR SCREEN
+fls tab 
+
+### VISUAL CODE
+cmd + option + flechas // Editar multiples lineas
+option + flecha arriba/abajo // mover import de lugar
